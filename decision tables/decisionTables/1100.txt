@@ -1,0 +1,313 @@
+--- betullsarii = 0.50
+   --- ödemlerini = 0.50
+      --- dosya = 0.50
+         --- hazirlanmis = 0.50
+            --- hastanede = 0.50
+               --- alakası = 0.50
+                  --- gençlerin = 0.50
+                     --- temizleyince = 0.50
+                        --- yuzumuzu = 0.50
+                           --- vermeyecem = 0.50
+                              --- etrafında = 0.50
+                                 --- truncated branch of depth 226
+                              --- etrafında   0.50
+                                 --- truncated branch of depth 3
+                           --- vermeyecem   0.50
+                              --- nelerdi = 0.50
+                                 --- truncated branch of depth 4
+                              --- nelerdi   0.50
+                                 --- truncated branch of depth 3
+                        --- yuzumuzu   0.50
+                           --- malzeme = 1.50
+                              --- bidonem = 0.50
+                                 --- truncated branch of depth 12
+                              --- bidonem   0.50
+                                 --- class 0
+                           --- malzeme   1.50
+                              --- class 0
+                     --- temizleyince   0.50
+                        --- malzeme = 0.50
+                           --- class 1
+                        --- malzeme   0.50
+                           --- dönüşüyorlar = 0.50
+                              --- bişi = 0.50
+                                 --- class 2
+                              --- bişi   0.50
+                                 --- class 1
+                           --- dönüşüyorlar   0.50
+                              --- class 1
+                  --- gençlerin   0.50
+                     --- gerçekleri = 0.50
+                        --- gelsi = 0.50
+                           --- yiycem = 0.50
+                              --- ağrılı = 0.50
+                                 --- truncated branch of depth 3
+                              --- ağrılı   0.50
+                                 --- class 1
+                           --- yiycem   0.50
+                              --- class 1
+                        --- gelsi   0.50
+                           --- class 1
+                     --- gerçekleri   0.50
+                        --- dönüşüyorlar = 0.50
+                           --- vermeyecem = 0.50
+                              --- class 2
+                           --- vermeyecem   0.50
+                              --- class 1
+                        --- dönüşüyorlar   0.50
+                           --- class 0
+               --- alakası   0.50
+                  --- durulan = 0.50
+                     --- hz = 0.50
+                        --- bayılırım = 0.50
+                           --- class 2
+                        --- bayılırım   0.50
+                           --- class 0
+                     --- hz   0.50
+                        --- class 0
+                  --- durulan   0.50
+                     --- class 0
+            --- hastanede   0.50
+               --- ilişki = 0.50
+                  --- yaygın = 0.50
+                     --- eklediğim = 0.50
+                        --- veri = 0.50
+                           --- çalış = 0.50
+                              --- haplari = 0.50
+                                 --- truncated branch of depth 3
+                              --- haplari   0.50
+                                 --- class 0
+                           --- çalış   0.50
+                              --- class 0
+                        --- veri   0.50
+                           --- class 0
+                     --- eklediğim   0.50
+                        --- class 0
+                  --- yaygın   0.50
+                     --- diyolar = 0.50
+                        --- class 0
+                     --- diyolar   0.50
+                        --- class 1
+               --- ilişki   0.50
+                  --- class 0
+         --- hazirlanmis   0.50
+            --- reklamdan = 0.50
+               --- vesile = 0.50
+                  --- şimdide = 0.50
+                     --- istiyoruuuuz = 0.50
+                        --- genetik = 0.50
+                           --- bırakmadım = 0.50
+                              --- mudur = 1.00
+                                 --- truncated branch of depth 11
+                              --- mudur   1.00
+                                 --- class 0
+                           --- bırakmadım   0.50
+                              --- class 0
+                        --- genetik   0.50
+                           --- bitmiş = 0.50
+                              --- class 2
+                           --- bitmiş   0.50
+                              --- class 0
+                     --- istiyoruuuuz   0.50
+                        --- başarılılar = 0.50
+                           --- class 0
+                        --- başarılılar   0.50
+                           --- class 1
+                  --- şimdide   0.50
+                     --- ciktılar = 0.50
+                        --- class 2
+                     --- ciktılar   0.50
+                        --- class 1
+               --- vesile   0.50
+                  --- class 0
+            --- reklamdan   0.50
+               --- olabilceğini = 0.50
+                  --- bazı = 0.50
+                     --- seyirler = 0.50
+                        --- reklamdan = 1.50
+                           --- temizleyince = 0.50
+                              --- notlarımızı = 0.50
+                                 --- truncated branch of depth 2
+                              --- notlarımızı   0.50
+                                 --- class 1
+                           --- temizleyince   0.50
+                              --- class 1
+                        --- reklamdan   1.50
+                           --- class 1
+                     --- seyirler   0.50
+                        --- class 1
+                  --- bazı   0.50
+                     --- class 0
+               --- olabilceğini   0.50
+                  --- anlamadığım = 0.50
+                     --- aidatı = 0.50
+                        --- class 2
+                     --- aidatı   0.50
+                        --- class 0
+                  --- anlamadığım   0.50
+                     --- class 0
+      --- dosya   0.50
+         --- ilişki = 0.50
+            --- 1yemek = 0.50
+               --- sorgulamadan = 0.50
+                  --- pamugun = 0.50
+                     --- ondan = 0.50
+                        --- bakabilirsin = 0.50
+                           --- class 1
+                        --- bakabilirsin   0.50
+                           --- class 2
+                     --- ondan   0.50
+                        --- class 2
+                  --- pamugun   0.50
+                     --- class 0
+               --- sorgulamadan   0.50
+                  --- koyuyor = 0.50
+                     --- class 0
+                  --- koyuyor   0.50
+                     --- class 1
+            --- 1yemek   0.50
+               --- class 0
+         --- ilişki   0.50
+            --- class 0
+   --- ödemlerini   0.50
+      --- class 2
+--- betullsarii   0.50
+   --- bazı = 0.50
+      --- eksiklik = 0.50
+         --- dosya = 0.50
+            --- bayılırım = 0.50
+               --- sebiaclear = 0.50
+                  --- kadınların = 0.50
+                     --- kutusunda = 0.50
+                        --- vermeyecem = 0.50
+                           --- dönüşüyorlar = 0.50
+                              --- eklediğim = 0.50
+                                 --- truncated branch of depth 37
+                              --- eklediğim   0.50
+                                 --- truncated branch of depth 2
+                           --- dönüşüyorlar   0.50
+                              --- ablağağa = 0.50
+                                 --- truncated branch of depth 6
+                              --- ablağağa   0.50
+                                 --- truncated branch of depth 2
+                        --- vermeyecem   0.50
+                           --- değiştirerek = 0.50
+                              --- yapamayacağımbu = 0.50
+                                 --- class 1
+                              --- yapamayacağımbu   0.50
+                                 --- class 2
+                           --- değiştirerek   0.50
+                              --- class 2
+                     --- kutusunda   0.50
+                        --- videolar = 1.00
+                           --- paça = 0.50
+                              --- gözeneklerimin = 0.50
+                                 --- class 1
+                              --- gözeneklerimin   0.50
+                                 --- class 2
+                           --- paça   0.50
+                              --- class 2
+                        --- videolar   1.00
+                           --- class 0
+                  --- kadınların   0.50
+                     --- vlog = 1.00
+                        --- class 0
+                     --- vlog   1.00
+                        --- class 2
+               --- sebiaclear   0.50
+                  --- atarsın = 0.50
+                     --- hazirlanmis = 0.50
+                        --- çalan = 0.50
+                           --- class 2
+                        --- çalan   0.50
+                           --- class 0
+                     --- hazirlanmis   0.50
+                        --- class 0
+                  --- atarsın   0.50
+                     --- class 1
+            --- bayılırım   0.50
+               --- temizlemesi = 0.50
+                  --- class 2
+               --- temizlemesi   0.50
+                  --- ayırıyomuşum = 0.50
+                     --- class 0
+                  --- ayırıyomuşum   0.50
+                     --- class 1
+         --- dosya   0.50
+            --- yaramayan = 0.50
+               --- içerisşndeki = 0.50
+                  --- değiştirdimneutrogena = 0.50
+                     --- class 1
+                  --- değiştirdimneutrogena   0.50
+                     --- class 0
+               --- içerisşndeki   0.50
+                  --- class 0
+            --- yaramayan   0.50
+               --- döktüm = 0.50
+                  --- class 2
+               --- döktüm   0.50
+                  --- class 0
+      --- eksiklik   0.50
+         --- faydalanıyorum = 0.50
+            --- sürülmesi = 0.50
+               --- içeriyormuş = 0.50
+                  --- detoksu = 0.50
+                     --- islemlerinizi = 0.50
+                        --- kalbin = 0.50
+                           --- class 1
+                        --- kalbin   0.50
+                           --- class 0
+                     --- islemlerinizi   0.50
+                        --- class 0
+                  --- detoksu   0.50
+                     --- class 0
+               --- içeriyormuş   0.50
+                  --- class 0
+            --- sürülmesi   0.50
+               --- class 0
+         --- faydalanıyorum   0.50
+            --- class 2
+   --- bazı   0.50
+      --- 1yemek = 0.50
+         --- sonraçok = 0.50
+            --- hazirlanmis = 0.50
+               --- olursanız = 0.50
+                  --- satılmıyorlarsa = 0.50
+                     --- anlamadığım = 0.50
+                        --- eveet = 0.50
+                           --- kadınların = 0.50
+                              --- diyorum = 0.50
+                                 --- truncated branch of depth 14
+                              --- diyorum   0.50
+                                 --- class 0
+                           --- kadınların   0.50
+                              --- class 0
+                        --- eveet   0.50
+                           --- class 2
+                     --- anlamadığım   0.50
+                        --- cildinizdeki = 0.50
+                           --- mahvoldumselamlar = 0.50
+                              --- birebir = 0.50
+                                 --- truncated branch of depth 4
+                              --- birebir   0.50
+                                 --- class 1
+                           --- mahvoldumselamlar   0.50
+                              --- class 0
+                        --- cildinizdeki   0.50
+                           --- class 0
+                  --- satılmıyorlarsa   0.50
+                     --- class 2
+               --- olursanız   0.50
+                  --- class 2
+            --- hazirlanmis   0.50
+               --- sınava = 0.50
+                  --- kaye = 0.50
+                     --- class 1
+                  --- kaye   0.50
+                     --- class 2
+               --- sınava   0.50
+                  --- class 2
+         --- sonraçok   0.50
+            --- class 0
+      --- 1yemek   0.50
+         --- class 0

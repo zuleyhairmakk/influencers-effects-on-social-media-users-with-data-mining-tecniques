@@ -1,0 +1,232 @@
+|--- kaldırdın <= 0.50
+|   |--- işimi <= 0.50
+|   |   |--- kırk <= 0.50
+|   |   |   |--- tanesine <= 0.50
+|   |   |   |   |--- güncellediğin <= 0.50
+|   |   |   |   |   |--- dopdolu <= 0.50
+|   |   |   |   |   |   |--- istiyorlar <= 0.50
+|   |   |   |   |   |   |   |--- sebum <= 0.50
+|   |   |   |   |   |   |   |   |--- yapınız <= 0.50
+|   |   |   |   |   |   |   |   |   |--- sürmeyin <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- kafalarina <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 291
+|   |   |   |   |   |   |   |   |   |   |--- kafalarina >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |--- sürmeyin >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- uyumakcildimizi <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- uyumakcildimizi >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- yapınız >  0.50
+|   |   |   |   |   |   |   |   |   |--- emeyine <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- birliği <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 21
+|   |   |   |   |   |   |   |   |   |   |--- birliği >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- emeyine >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- sebum >  0.50
+|   |   |   |   |   |   |   |   |--- artıqsizi <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- artıqsizi >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |--- istiyorlar >  0.50
+|   |   |   |   |   |   |   |--- çöpte <= 0.50
+|   |   |   |   |   |   |   |   |--- bırakalı <= 0.50
+|   |   |   |   |   |   |   |   |   |--- beyefendi <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- beğenirsen <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- beğenirsen >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- beyefendi >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- bırakalı >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |--- çöpte >  0.50
+|   |   |   |   |   |   |   |   |--- rengini <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |--- rengini >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- dopdolu >  0.50
+|   |   |   |   |   |   |--- bencedigerleri <= 0.50
+|   |   |   |   |   |   |   |--- pamukta <= 0.50
+|   |   |   |   |   |   |   |   |--- çıkarkende <= 0.50
+|   |   |   |   |   |   |   |   |   |--- eklenmediğini <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- maskelerle <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 19
+|   |   |   |   |   |   |   |   |   |   |--- maskelerle >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- eklenmediğini >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |--- çıkarkende >  0.50
+|   |   |   |   |   |   |   |   |   |--- getirmendeki <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- burdayimm <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- burdayimm >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |   |--- getirmendeki >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- pamukta >  0.50
+|   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |--- bencedigerleri >  0.50
+|   |   |   |   |   |   |   |--- kalmaz <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- kalmaz >  0.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |--- güncellediğin >  0.50
+|   |   |   |   |   |--- gelmişti <= 0.50
+|   |   |   |   |   |   |--- jei <= 0.50
+|   |   |   |   |   |   |   |--- aloeveramı <= 0.50
+|   |   |   |   |   |   |   |   |--- yo <= 0.50
+|   |   |   |   |   |   |   |   |   |--- ettiğimiz <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- kasin <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- kasin >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |   |--- ettiğimiz >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |--- yo >  0.50
+|   |   |   |   |   |   |   |   |   |--- cansubagg <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |--- cansubagg >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- aloeveramı >  0.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- jei >  0.50
+|   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |--- gelmişti >  0.50
+|   |   |   |   |   |   |--- topicrem <= 0.50
+|   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |--- topicrem >  0.50
+|   |   |   |   |   |   |   |--- class: 0
+|   |   |   |--- tanesine >  0.50
+|   |   |   |   |--- gelmiyordur <= 0.50
+|   |   |   |   |   |--- tavsıyelerıne <= 0.50
+|   |   |   |   |   |   |--- görünümlü <= 0.50
+|   |   |   |   |   |   |   |--- sevvalhilalay <= 0.50
+|   |   |   |   |   |   |   |   |--- sürmeseydim <= 0.50
+|   |   |   |   |   |   |   |   |   |--- eklenmediğini <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- yuzumuzu <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- yuzumuzu >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |--- eklenmediğini >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |--- sürmeseydim >  0.50
+|   |   |   |   |   |   |   |   |   |--- fındık <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |--- fındık >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- sevvalhilalay >  0.50
+|   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |--- görünümlü >  0.50
+|   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |--- tavsıyelerıne >  0.50
+|   |   |   |   |   |   |--- class: 2
+|   |   |   |   |--- gelmiyordur >  0.50
+|   |   |   |   |   |--- class: 0
+|   |   |--- kırk >  0.50
+|   |   |   |--- bencedigerleri <= 0.50
+|   |   |   |   |--- sıvılce <= 0.50
+|   |   |   |   |   |--- salak <= 0.50
+|   |   |   |   |   |   |--- atdı <= 0.50
+|   |   |   |   |   |   |   |--- yazıyorum <= 0.50
+|   |   |   |   |   |   |   |   |--- pha <= 0.50
+|   |   |   |   |   |   |   |   |   |--- xkkdkdkdkd <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- gelsede <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 13
+|   |   |   |   |   |   |   |   |   |   |--- gelsede >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |--- xkkdkdkdkd >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- olduğunca <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |   |   |--- olduğunca >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |--- pha >  0.50
+|   |   |   |   |   |   |   |   |   |--- performans <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |--- performans >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- yazıyorum >  0.50
+|   |   |   |   |   |   |   |   |--- demiştimsöylediklerine <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |--- demiştimsöylediklerine >  0.50
+|   |   |   |   |   |   |   |   |   |--- yeti <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |   |--- yeti >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- atdı >  0.50
+|   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |--- salak >  0.50
+|   |   |   |   |   |   |--- class: 2
+|   |   |   |   |--- sıvılce >  0.50
+|   |   |   |   |   |--- yagi <= 0.50
+|   |   |   |   |   |   |--- izleyebileceği <= 0.50
+|   |   |   |   |   |   |   |--- serumun <= 1.50
+|   |   |   |   |   |   |   |   |--- maskelerle <= 0.50
+|   |   |   |   |   |   |   |   |   |--- ikisinin <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- yetmedi <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |   |   |--- yetmedi >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- ikisinin >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- maskelerle >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- serumun >  1.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- izleyebileceği >  0.50
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- yagi >  0.50
+|   |   |   |   |   |   |--- sıvılce <= 1.50
+|   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |--- sıvılce >  1.50
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |--- bencedigerleri >  0.50
+|   |   |   |   |--- class: 1
+|   |--- işimi >  0.50
+|   |   |--- class: 2
+|--- kaldırdın >  0.50
+|   |--- sürmeyin <= 0.50
+|   |   |--- serumun <= 6.00
+|   |   |   |--- bakan <= 0.50
+|   |   |   |   |--- olmuşbana <= 0.50
+|   |   |   |   |   |--- olabilmek <= 0.50
+|   |   |   |   |   |   |--- tesadüf <= 0.50
+|   |   |   |   |   |   |   |--- içince <= 0.50
+|   |   |   |   |   |   |   |   |--- geride <= 0.50
+|   |   |   |   |   |   |   |   |   |--- kalmaz <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- dakikaya <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |   |--- dakikaya >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |   |--- kalmaz >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |--- geride >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- içince >  0.50
+|   |   |   |   |   |   |   |   |--- rutinde <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |--- rutinde >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- tesadüf >  0.50
+|   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |--- olabilmek >  0.50
+|   |   |   |   |   |   |--- class: 0
+|   |   |   |   |--- olmuşbana >  0.50
+|   |   |   |   |   |--- onlarla <= 0.50
+|   |   |   |   |   |   |--- feyz <= 0.50
+|   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- feyz >  0.50
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- onlarla >  0.50
+|   |   |   |   |   |   |--- class: 1
+|   |   |   |--- bakan >  0.50
+|   |   |   |   |--- class: 2
+|   |   |--- serumun >  6.00
+|   |   |   |--- class: 0
+|   |--- sürmeyin >  0.50
+|   |   |--- ablamız <= 0.50
+|   |   |   |--- class: 0
+|   |   |--- ablamız >  0.50
+|   |   |   |--- class: 2

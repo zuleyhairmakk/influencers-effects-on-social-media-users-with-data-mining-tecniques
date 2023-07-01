@@ -1,0 +1,313 @@
+|--- betullsarii <= 0.50
+|   |--- ödemlerini <= 0.50
+|   |   |--- dosya <= 0.50
+|   |   |   |--- hazirlanmis <= 0.50
+|   |   |   |   |--- hastanede <= 0.50
+|   |   |   |   |   |--- alakası <= 0.50
+|   |   |   |   |   |   |--- gençlerin <= 0.50
+|   |   |   |   |   |   |   |--- temizleyince <= 0.50
+|   |   |   |   |   |   |   |   |--- yuzumuzu <= 0.50
+|   |   |   |   |   |   |   |   |   |--- vermeyecem <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- etrafında <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 226
+|   |   |   |   |   |   |   |   |   |   |--- etrafında >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- vermeyecem >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- nelerdi <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- nelerdi >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |--- yuzumuzu >  0.50
+|   |   |   |   |   |   |   |   |   |--- malzeme <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- bidonem <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 13
+|   |   |   |   |   |   |   |   |   |   |--- bidonem >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |   |--- malzeme >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- temizleyince >  0.50
+|   |   |   |   |   |   |   |   |--- malzeme <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- malzeme >  0.50
+|   |   |   |   |   |   |   |   |   |--- isomethyl <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- dolanıyorum <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |   |--- dolanıyorum >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- isomethyl >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- gençlerin >  0.50
+|   |   |   |   |   |   |   |--- gerçekleri <= 0.50
+|   |   |   |   |   |   |   |   |--- addison <= 0.50
+|   |   |   |   |   |   |   |   |   |--- basıma <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- temizlemekd <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- temizlemekd >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- basıma >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- unutmayaliim <= 1.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |   |--- unutmayaliim >  1.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |--- addison >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- gerçekleri >  0.50
+|   |   |   |   |   |   |   |   |--- dönüşüyorlar <= 0.50
+|   |   |   |   |   |   |   |   |   |--- vermeyecem <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |--- vermeyecem >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- dönüşüyorlar >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |--- alakası >  0.50
+|   |   |   |   |   |   |--- bisey <= 0.50
+|   |   |   |   |   |   |   |--- doanın <= 0.50
+|   |   |   |   |   |   |   |   |--- yatarkende <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |--- yatarkende >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- doanın >  0.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- bisey >  0.50
+|   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |--- hastanede >  0.50
+|   |   |   |   |   |--- ilişki <= 0.50
+|   |   |   |   |   |   |--- yaygın <= 0.50
+|   |   |   |   |   |   |   |--- eklediğim <= 0.50
+|   |   |   |   |   |   |   |   |--- veri <= 0.50
+|   |   |   |   |   |   |   |   |   |--- kullandiğini <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- cox <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- cox >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- kullandiğini >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- veri >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- eklediğim >  0.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- yaygın >  0.50
+|   |   |   |   |   |   |   |--- isomethyl <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- isomethyl >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- ilişki >  0.50
+|   |   |   |   |   |   |--- class: 0
+|   |   |   |--- hazirlanmis >  0.50
+|   |   |   |   |--- reklamdan <= 0.50
+|   |   |   |   |   |--- vesile <= 0.50
+|   |   |   |   |   |   |--- şimdide <= 0.50
+|   |   |   |   |   |   |   |--- istiyoruuuuz <= 0.50
+|   |   |   |   |   |   |   |   |--- genetik <= 0.50
+|   |   |   |   |   |   |   |   |   |--- mahvedecek <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- mbr <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |   |--- mbr >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |   |--- mahvedecek >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |--- genetik >  0.50
+|   |   |   |   |   |   |   |   |   |--- she <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |--- she >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- istiyoruuuuz >  0.50
+|   |   |   |   |   |   |   |   |--- başarılılar <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |--- başarılılar >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- şimdide >  0.50
+|   |   |   |   |   |   |   |--- yağı <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |--- yağı >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- vesile >  0.50
+|   |   |   |   |   |   |--- class: 0
+|   |   |   |   |--- reklamdan >  0.50
+|   |   |   |   |   |--- olabilceğini <= 0.50
+|   |   |   |   |   |   |--- bazı <= 0.50
+|   |   |   |   |   |   |   |--- reklamdan <= 1.50
+|   |   |   |   |   |   |   |   |--- seyirler <= 0.50
+|   |   |   |   |   |   |   |   |   |--- top <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tarifiverirmisin <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- tarifiverirmisin >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- top >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- seyirler >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- reklamdan >  1.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- bazı >  0.50
+|   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |--- olabilceğini >  0.50
+|   |   |   |   |   |   |--- anlamadığım <= 0.50
+|   |   |   |   |   |   |   |--- aidatı <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |--- aidatı >  0.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- anlamadığım >  0.50
+|   |   |   |   |   |   |   |--- class: 0
+|   |   |--- dosya >  0.50
+|   |   |   |--- olabilceğini <= 0.50
+|   |   |   |   |--- ilişki <= 0.50
+|   |   |   |   |   |--- tatloş <= 0.50
+|   |   |   |   |   |   |--- tanımadan <= 0.50
+|   |   |   |   |   |   |   |--- nesneyle <= 1.00
+|   |   |   |   |   |   |   |   |--- bizlerle <= 0.50
+|   |   |   |   |   |   |   |   |   |--- ambalaji <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- ambalaji >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |--- bizlerle >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- nesneyle >  1.00
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- tanımadan >  0.50
+|   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |--- tatloş >  0.50
+|   |   |   |   |   |   |--- class: 2
+|   |   |   |   |--- ilişki >  0.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |--- olabilceğini >  0.50
+|   |   |   |   |--- class: 0
+|   |--- ödemlerini >  0.50
+|   |   |--- class: 2
+|--- betullsarii >  0.50
+|   |--- bazı <= 0.50
+|   |   |--- eksiklik <= 0.50
+|   |   |   |--- dosya <= 0.50
+|   |   |   |   |--- bayılırım <= 0.50
+|   |   |   |   |   |--- sebiaclear <= 0.50
+|   |   |   |   |   |   |--- kadınların <= 0.50
+|   |   |   |   |   |   |   |--- kutusunda <= 0.50
+|   |   |   |   |   |   |   |   |--- vermeyecem <= 0.50
+|   |   |   |   |   |   |   |   |   |--- dönüşüyorlar <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- eklediğim <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 37
+|   |   |   |   |   |   |   |   |   |   |--- eklediğim >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- dönüşüyorlar >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- ablağağa <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- ablağağa >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- vermeyecem >  0.50
+|   |   |   |   |   |   |   |   |   |--- değiştirerek <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- nci <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |   |--- nci >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |--- değiştirerek >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |--- kutusunda >  0.50
+|   |   |   |   |   |   |   |   |--- odaklanamadım <= 0.50
+|   |   |   |   |   |   |   |   |   |--- kayısı <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- tüğlenmede <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |   |--- tüğlenmede >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |--- kayısı >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |--- odaklanamadım >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- kadınların >  0.50
+|   |   |   |   |   |   |   |--- gunluk <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- gunluk >  0.50
+|   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |--- sebiaclear >  0.50
+|   |   |   |   |   |   |--- atarsın <= 0.50
+|   |   |   |   |   |   |   |--- ablağağa <= 0.50
+|   |   |   |   |   |   |   |   |--- çalan <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |--- çalan >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- ablağağa >  0.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- atarsın >  0.50
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |--- bayılırım >  0.50
+|   |   |   |   |   |--- temizlemesi <= 0.50
+|   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |--- temizlemesi >  0.50
+|   |   |   |   |   |   |--- alabiliyorum <= 0.50
+|   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- alabiliyorum >  0.50
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |--- dosya >  0.50
+|   |   |   |   |--- alakası <= 0.50
+|   |   |   |   |   |--- atar <= 0.50
+|   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- atar >  0.50
+|   |   |   |   |   |   |--- birebir <= 0.50
+|   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- birebir >  0.50
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |--- alakası >  0.50
+|   |   |   |   |   |--- başlayabilirsin <= 0.50
+|   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |--- başlayabilirsin >  0.50
+|   |   |   |   |   |   |--- class: 0
+|   |   |--- eksiklik >  0.50
+|   |   |   |--- faydalanıyorum <= 0.50
+|   |   |   |   |--- içeriyormuş <= 0.50
+|   |   |   |   |   |--- sürülmesi <= 0.50
+|   |   |   |   |   |   |--- incelermisinlütfenn <= 0.50
+|   |   |   |   |   |   |   |--- komiktir <= 0.50
+|   |   |   |   |   |   |   |   |--- kalbin <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- kalbin >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- komiktir >  0.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- incelermisinlütfenn >  0.50
+|   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |--- sürülmesi >  0.50
+|   |   |   |   |   |   |--- class: 0
+|   |   |   |   |--- içeriyormuş >  0.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |--- faydalanıyorum >  0.50
+|   |   |   |   |--- class: 2
+|   |--- bazı >  0.50
+|   |   |--- 1yemek <= 0.50
+|   |   |   |--- sonraçok <= 0.50
+|   |   |   |   |--- hazirlanmis <= 0.50
+|   |   |   |   |   |--- yükseltiyorsun <= 0.50
+|   |   |   |   |   |   |--- şi <= 1.50
+|   |   |   |   |   |   |   |--- düzenlemeyi <= 0.50
+|   |   |   |   |   |   |   |   |--- anlamadığım <= 0.50
+|   |   |   |   |   |   |   |   |   |--- eveet <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- kadınların <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 15
+|   |   |   |   |   |   |   |   |   |   |--- kadınların >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |   |--- eveet >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |--- anlamadığım >  0.50
+|   |   |   |   |   |   |   |   |   |--- cildinizdeki <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- mahvoldumselamlar <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- mahvoldumselamlar >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |   |--- cildinizdeki >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- düzenlemeyi >  0.50
+|   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |--- şi >  1.50
+|   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |--- yükseltiyorsun >  0.50
+|   |   |   |   |   |   |--- class: 2
+|   |   |   |   |--- hazirlanmis >  0.50
+|   |   |   |   |   |--- sınava <= 0.50
+|   |   |   |   |   |   |--- veri <= 1.50
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- veri >  1.50
+|   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |--- sınava >  0.50
+|   |   |   |   |   |   |--- class: 2
+|   |   |   |--- sonraçok >  0.50
+|   |   |   |   |--- class: 0
+|   |   |--- 1yemek >  0.50
+|   |   |   |--- class: 0

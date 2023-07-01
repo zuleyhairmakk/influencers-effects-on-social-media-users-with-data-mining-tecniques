@@ -1,0 +1,373 @@
+|--- ordinarynin <= 0.50
+|   |--- gecindiriyoruz <= 0.50
+|   |   |--- olanlari <= 0.50
+|   |   |   |--- butonu <= 0.50
+|   |   |   |   |--- bacaklarimda <= 0.50
+|   |   |   |   |   |--- dert <= 0.50
+|   |   |   |   |   |   |--- denemelisin <= 0.50
+|   |   |   |   |   |   |   |--- fkfmdjmdmdldk <= 0.50
+|   |   |   |   |   |   |   |   |--- sicil <= 0.50
+|   |   |   |   |   |   |   |   |   |--- dermokilin <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- yarıyo <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 293
+|   |   |   |   |   |   |   |   |   |   |--- yarıyo >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- dermokilin >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- adi <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 52
+|   |   |   |   |   |   |   |   |   |   |--- adi >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |--- sicil >  0.50
+|   |   |   |   |   |   |   |   |   |--- thermal <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- kızarırsınız <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 16
+|   |   |   |   |   |   |   |   |   |   |--- kızarırsınız >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |--- thermal >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- fkfmdjmdmdldk >  0.50
+|   |   |   |   |   |   |   |   |--- 8465165 <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- 8465165 >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |--- denemelisin >  0.50
+|   |   |   |   |   |   |   |--- hidrofil <= 0.50
+|   |   |   |   |   |   |   |   |--- koyduklari <= 0.50
+|   |   |   |   |   |   |   |   |   |--- yigenlerim <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- hissediyodum <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- hissediyodum >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- yigenlerim >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- koyduklari >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- hidrofil >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- dert >  0.50
+|   |   |   |   |   |   |--- sibirya <= 2.50
+|   |   |   |   |   |   |   |--- bunlara <= 0.50
+|   |   |   |   |   |   |   |   |--- nedelalune <= 0.50
+|   |   |   |   |   |   |   |   |   |--- nibfab <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |   |--- nibfab >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- nedelalune >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- bunlara >  0.50
+|   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |--- sibirya >  2.50
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |--- bacaklarimda >  0.50
+|   |   |   |   |   |--- nib <= 0.50
+|   |   |   |   |   |   |--- aks <= 0.50
+|   |   |   |   |   |   |   |--- lilililillili <= 0.50
+|   |   |   |   |   |   |   |   |--- kullanabilirmiyim <= 0.50
+|   |   |   |   |   |   |   |   |   |--- mail <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- 8465165 <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 31
+|   |   |   |   |   |   |   |   |   |   |--- 8465165 >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |--- mail >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |--- kullanabilirmiyim >  0.50
+|   |   |   |   |   |   |   |   |   |--- anlaadigim <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |   |--- anlaadigim >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |--- lilililillili >  0.50
+|   |   |   |   |   |   |   |   |--- kullanabilirmiyim <= 0.50
+|   |   |   |   |   |   |   |   |   |--- edermisiniz <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |--- edermisiniz >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |--- kullanabilirmiyim >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- aks >  0.50
+|   |   |   |   |   |   |   |--- bildirimmmmm <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- bildirimmmmm >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- nib >  0.50
+|   |   |   |   |   |   |--- yigenlerim <= 0.50
+|   |   |   |   |   |   |   |--- emilimini <= 0.50
+|   |   |   |   |   |   |   |   |--- glow <= 0.50
+|   |   |   |   |   |   |   |   |   |--- as <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |--- as >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |--- glow >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- emilimini >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- yigenlerim >  0.50
+|   |   |   |   |   |   |   |--- feşmekanlardan <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- feşmekanlardan >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |--- butonu >  0.50
+|   |   |   |   |--- kalite <= 0.50
+|   |   |   |   |   |--- clt <= 0.50
+|   |   |   |   |   |   |--- azaleanın <= 0.50
+|   |   |   |   |   |   |   |--- ruhsal <= 0.50
+|   |   |   |   |   |   |   |   |--- beze <= 0.50
+|   |   |   |   |   |   |   |   |   |--- simpşe <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- devam <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 17
+|   |   |   |   |   |   |   |   |   |   |--- devam >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- simpşe >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- urunlerinin <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |   |   |--- urunlerinin >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- beze >  0.50
+|   |   |   |   |   |   |   |   |   |--- olmaliyiz <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |   |--- olmaliyiz >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- ruhsal >  0.50
+|   |   |   |   |   |   |   |   |--- acamadim <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |--- acamadim >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- azaleanın >  0.50
+|   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |--- clt >  0.50
+|   |   |   |   |   |   |--- araştirmaktan <= 0.50
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- araştirmaktan >  0.50
+|   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |--- kalite >  0.50
+|   |   |   |   |   |--- hissediyodum <= 0.50
+|   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |--- hissediyodum >  0.50
+|   |   |   |   |   |   |--- class: 2
+|   |   |--- olanlari >  0.50
+|   |   |   |--- bacaklarimda <= 1.50
+|   |   |   |   |--- kuzen <= 0.50
+|   |   |   |   |   |--- 2561012 <= 0.50
+|   |   |   |   |   |   |--- dermokilin <= 0.50
+|   |   |   |   |   |   |   |--- denemelisin <= 0.50
+|   |   |   |   |   |   |   |   |--- degilmi <= 0.50
+|   |   |   |   |   |   |   |   |   |--- yigenlerim <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- demişler <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- demişler >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |   |--- yigenlerim >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- butonu <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- butonu >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |--- degilmi >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- denemelisin >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- dermokilin >  0.50
+|   |   |   |   |   |   |   |--- universiteye <= 0.50
+|   |   |   |   |   |   |   |   |--- arindiriyorumsonra <= 1.00
+|   |   |   |   |   |   |   |   |   |--- sibirya <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- feşmekanlardan <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- feşmekanlardan >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |--- sibirya >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |--- arindiriyorumsonra >  1.00
+|   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- universiteye >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- 2561012 >  0.50
+|   |   |   |   |   |   |--- birebir <= 0.50
+|   |   |   |   |   |   |   |--- google <= 0.50
+|   |   |   |   |   |   |   |   |--- bağnaz <= 0.50
+|   |   |   |   |   |   |   |   |   |--- degilsiniz <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- fahiş <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |   |   |--- fahiş >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- degilsiniz >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- bidonem <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |   |   |--- bidonem >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |--- bağnaz >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- google >  0.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- birebir >  0.50
+|   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |--- kuzen >  0.50
+|   |   |   |   |   |--- vermek <= 0.50
+|   |   |   |   |   |   |--- ediyorummesela <= 0.50
+|   |   |   |   |   |   |   |--- olusturmaya <= 0.50
+|   |   |   |   |   |   |   |   |--- toz <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |--- toz >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |--- olusturmaya >  0.50
+|   |   |   |   |   |   |   |   |--- onerirsin <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |--- onerirsin >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- ediyorummesela >  0.50
+|   |   |   |   |   |   |   |--- simge <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |--- simge >  0.50
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |--- vermek >  0.50
+|   |   |   |   |   |   |--- class: 1
+|   |   |   |--- bacaklarimda >  1.50
+|   |   |   |   |--- class: 1
+|   |--- gecindiriyoruz >  0.50
+|   |   |--- selamla <= 0.50
+|   |   |   |--- micellar <= 0.50
+|   |   |   |   |--- purifying <= 0.50
+|   |   |   |   |   |--- aşamasındaydım <= 0.50
+|   |   |   |   |   |   |--- 39 <= 0.50
+|   |   |   |   |   |   |   |--- hesaplı <= 0.50
+|   |   |   |   |   |   |   |   |--- kuzen <= 1.50
+|   |   |   |   |   |   |   |   |   |--- karısık <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- hydratonic <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- hydratonic >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |   |--- karısık >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- yasin <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |   |   |--- yasin >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- kuzen >  1.50
+|   |   |   |   |   |   |   |   |   |--- bacaklarimda <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |   |--- bacaklarimda >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- hesaplı >  0.50
+|   |   |   |   |   |   |   |   |--- anne <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |--- anne >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- 39 >  0.50
+|   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |--- aşamasındaydım >  0.50
+|   |   |   |   |   |   |--- kiricisin <= 0.50
+|   |   |   |   |   |   |   |--- nibfab <= 0.50
+|   |   |   |   |   |   |   |   |--- başladım <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |   |--- başladım >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- nibfab >  0.50
+|   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |--- kiricisin >  0.50
+|   |   |   |   |   |   |   |--- bacaklarimda <= 1.00
+|   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |--- bacaklarimda >  1.00
+|   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |--- purifying >  0.50
+|   |   |   |   |   |--- degilsiniz <= 0.50
+|   |   |   |   |   |   |--- sicil <= 1.50
+|   |   |   |   |   |   |   |--- yigenlerim <= 0.50
+|   |   |   |   |   |   |   |   |--- sibirya <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |--- sibirya >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |--- yigenlerim >  0.50
+|   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |--- sicil >  1.50
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- degilsiniz >  0.50
+|   |   |   |   |   |   |--- sibirya <= 1.50
+|   |   |   |   |   |   |   |--- eyeliner <= 0.50
+|   |   |   |   |   |   |   |   |--- guzelll <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |--- guzelll >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- eyeliner >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- sibirya >  1.50
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |--- micellar >  0.50
+|   |   |   |   |--- oğul <= 0.50
+|   |   |   |   |   |--- class: 2
+|   |   |   |   |--- oğul >  0.50
+|   |   |   |   |   |--- class: 0
+|   |   |--- selamla >  0.50
+|   |   |   |--- keten <= 1.00
+|   |   |   |   |--- sevi <= 0.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |   |--- sevi >  0.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |--- keten >  1.00
+|   |   |   |   |--- class: 2
+|--- ordinarynin >  0.50
+|   |--- bahar <= 0.50
+|   |   |--- jmkmjn <= 0.50
+|   |   |   |--- nib <= 0.50
+|   |   |   |   |--- arasındann <= 0.50
+|   |   |   |   |   |--- mide <= 0.50
+|   |   |   |   |   |   |--- cosrx <= 0.50
+|   |   |   |   |   |   |   |--- düşündürdü <= 0.50
+|   |   |   |   |   |   |   |   |--- ediyolardi <= 0.50
+|   |   |   |   |   |   |   |   |   |--- fenomen <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- diyabet <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- diyabet >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |   |--- fenomen >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |--- ediyolardi >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |--- düşündürdü >  0.50
+|   |   |   |   |   |   |   |   |--- alamıyorum <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |   |   |--- alamıyorum >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- cosrx >  0.50
+|   |   |   |   |   |   |   |--- hissediyodum <= 0.50
+|   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |--- hissediyodum >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- mide >  0.50
+|   |   |   |   |   |   |--- yeterdir <= 0.50
+|   |   |   |   |   |   |   |--- sperm <= 0.50
+|   |   |   |   |   |   |   |   |--- bidonem <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |   |   |   |--- bidonem >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |   |--- sperm >  0.50
+|   |   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |   |--- yeterdir >  0.50
+|   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |--- arasındann >  0.50
+|   |   |   |   |   |--- class: 2
+|   |   |   |--- nib >  0.50
+|   |   |   |   |--- butonu <= 0.50
+|   |   |   |   |   |--- denemelisin <= 0.50
+|   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |--- denemelisin >  0.50
+|   |   |   |   |   |   |--- class: 2
+|   |   |   |   |--- butonu >  0.50
+|   |   |   |   |   |--- belki <= 0.50
+|   |   |   |   |   |   |--- tamamla <= 0.50
+|   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- tamamla >  0.50
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- belki >  0.50
+|   |   |   |   |   |   |--- class: 1
+|   |   |--- jmkmjn >  0.50
+|   |   |   |--- class: 0
+|   |--- bahar >  0.50
+|   |   |--- dermokilin <= 0.50
+|   |   |   |--- istediğim <= 0.50
+|   |   |   |   |--- 2561012 <= 0.50
+|   |   |   |   |   |--- class: 2
+|   |   |   |   |--- 2561012 >  0.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |--- istediğim >  0.50
+|   |   |   |   |--- class: 0
+|   |   |--- dermokilin >  0.50
+|   |   |   |--- bakkal <= 0.50
+|   |   |   |   |--- class: 0
+|   |   |   |--- bakkal >  0.50
+|   |   |   |   |--- class: 1
