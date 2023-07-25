@@ -16,9 +16,37 @@ preprocessing techniques were tested with machine learning algorithms, and the o
 results were interpreted.
 
 
-#PREPOCESSING
+# PREPOCESSING
 
 
 
 ![image](https://github.com/zuleyhairmakk/influencers-effects-on-social-media-users-with-data-mining-tecniques/assets/87870858/d53267b9-3fa2-4eda-a2a2-e2c815068bb1)
+
+
+
+
+# RESULTS
+
+In this project, the focus has been on evaluating the emotional states of tweets-youtube and
+training a machine learning model by feeding it with the data, followed by testing its
+accuracy.Thus, based on the obtained results, this model can be used in the future.
+In conclusion, it has been observed that Naive Bayes Multinomial provides the highest
+accuracy (average of 70%) for feature-based training, while KNN (k=3) and Naive Bayes
+Bernoulli yield the lowest accuracy.Apologies for the confusion. Thank you for providing the
+correct values. It has been observed that KNN (k=3) achieves an average accuracy of 56%,
+Naive Bayes Bernoulli achieves an average accuracy of 57%, while Naive Bayes
+Multinomial model has slightly higher F-Measure (average of 67%) and ROC values
+(average of 84%).
+Indeed, based on the F-Measure (average of 67%) and ROC values (average of 84%), it can
+be said that the Naive Bayes Multinomial model generally performs better.According to the
+data collected during the labeling process, it was observed that there were 897 negative, 2609
+positive, and 1667 neutral instances. Based on this, it can be seen that social media
+influencers and collaborations targeting the desired audience have a positive impact on
+users.These findings highlight the value of social media influencers and collaborations that
+have the potential to create a positive impact. Businesses and brands can strengthen their
+marketing strategies by collaborating with social media influencers who have the ability to
+create positive effects and leave a favorable impression on the target audience.
+Additionally, it can be interpreted that popular users on social media create trust among
+regular users.
+
 
