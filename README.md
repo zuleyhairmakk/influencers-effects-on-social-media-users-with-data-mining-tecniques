@@ -17,5 +17,8 @@ results were interpreted.
 
 
 #PREPOCESSING
+
+
+
 ![image](https://github.com/zuleyhairmakk/influencers-effects-on-social-media-users-with-data-mining-tecniques/assets/87870858/d53267b9-3fa2-4eda-a2a2-e2c815068bb1)
 
