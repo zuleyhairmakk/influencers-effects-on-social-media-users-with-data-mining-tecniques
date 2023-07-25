@@ -14,3 +14,8 @@ comments collected from social media platforms such as Twitter and YouTube were
 preprocessed by being tagged and reaching a common understanding. Sixteen different
 preprocessing techniques were tested with machine learning algorithms, and the obtained
 results were interpreted.
+
+
+#PREPOCESSING
+![image](https://github.com/zuleyhairmakk/influencers-effects-on-social-media-users-with-data-mining-tecniques/assets/87870858/d53267b9-3fa2-4eda-a2a2-e2c815068bb1)
+
