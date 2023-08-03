@@ -15,6 +15,10 @@ preprocessed by being tagged and reaching a common understanding. Sixteen differ
 preprocessing techniques were tested with machine learning algorithms, and the obtained
 results were interpreted.
 
+Project Teammates
+züleyha Irmak
+Merve Çaylı
+Gizem Ertik
 
 # PREPOCESSING
 
